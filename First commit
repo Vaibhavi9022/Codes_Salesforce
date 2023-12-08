@@ -1,0 +1,10 @@
+public test class{
+
+  public static void myTestMehod(){
+
+      system.debug('my first commit');
+
+  }
+
+
+}
